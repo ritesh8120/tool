@@ -1,0 +1,416 @@
+
+/* ----------   Login Page css          ----------------- */
+.bg-login-images {
+    background: url(../images/loginmyportalx.jpg);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-size: cover;
+    background-position: top;
+}
+.col-lg-6.d-none.d-lg-block.bg-login-images {
+    background: url(../images/loginmyportalx.jpg);
+    background-size: cover;
+    background-position: center;
+}
+body.bg-gradient-login {
+    background: #d6ce15;
+    font-size: 18px;
+}
+body.bg-gradient-login h1, h2 {
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+    font-family: Oswald sans-serif;
+}
+i.fas.fa-long-arrow-alt-left {
+    /* padding: 0px 5px 0px 0px; */
+    /* margin: 2px 2px 0px 0px; */
+    width: 25px;
+    margin-right: 3px;
+    top: 4px;
+    position: relative;
+    color: #000;
+}
+a.small {
+    color: black;
+}
+.error-page-404{ background: #eee; }
+
+/* ----------- icons custom css  -------*/
+.fa, .fas {
+    font-weight: 600;
+    font-size: larger;
+}
+/* ----------- icons custom css  -------*/
+
+/* ----------   Sidebar navigation css          ----------------- */
+.topbar .nav-item .nav-link{ padding: 0; }
+
+
+/* sidebar slide arrow css change  */
+
+.sidebar #sidebarToggle {
+    width: 3rem;
+    height: 3rem;
+    text-align: center;
+     margin: 0; 
+    cursor: pointer;
+    background: #f6c23e;
+}
+.text-right.d-none.d-md-inline {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: -20px 0px -20px -1px;
+    width: 100%;
+    z-index: 99999;
+}
+
+/* - START sidebar navigation transist - */
+.sidebar-dark .nav-item .nav-link i {
+    color: #fff;
+}
+.card.bg-success.text-white.shadow span {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100px;
+}
+ul#accordionSidebar{ 
+	-webkit-transition: all 200ms linear;
+-moz-transition: all 200ms linear;
+-ms-transition: all 200ms linear;
+-o-transition: all 200ms linear;
+transition: all 200ms linear;
+ }
+
+.bg-gradient-primary {
+ /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#001818+0,001818+15,001818+68,001818+68,013f3f+90,013f3f+95,013f3f+99,013f3f+100,013f3f+100&1+0,0.92+93,1+98 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#230309+20,44ed15+100,3fc33f+100 */
+background: #2d3945; /* Old browsers */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,454a4d+100 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0e0e0e+0,2d3945+14 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1c1c1c+1,364554+36 */
+background: #1c1c1c; /* Old browsers */
+background: -moz-linear-gradient(top,  #1c1c1c 1%, #364554 36%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #1c1c1c 1%,#364554 36%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #1c1c1c 1%,#364554 36%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c1c1c', endColorstr='#364554',GradientType=0 ); /* IE6-9 */
+
+
+
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    background: rgb(0 24 24 / 91%);
+    color: #fff;
+}
+#Coac-dashboard-container img {
+    text-align: center;
+    /* text-align: end; */
+    /* float: right; */
+    /* display: flex; */
+    /* justify-content: flex-end; */
+    float: right;
+}
+nav.navbar.navbar-expand.navbar-light.bg-white.topbar.mb-4.static-top.shadow {
+    background-color: #2d3945 !important;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0e0e0e+0,2d3945+14 */
+background: #0e0e0e; /* Old browsers */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0e0e0e+0,2d3945+73 */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1c1c1c+1,364554+34 */
+background: #1c1c1c; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #1c1c1c 1%, #364554 34%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #1c1c1c 1%,#364554 34%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #1c1c1c 1%,#364554 34%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1c1c1c', endColorstr='#364554',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+
+}
+a.sidebar-brand.d-flex.align-items-center.justify-content-center {
+    background-color: #1c1d1d !important;
+}
+.text-gray-600 {
+    color: #eee !important;
+}
+/* - END sidebar navigation transist - */
+
+/* ------  START Panel Card Dashboard ----------- */
+
+div #content div.card-text span {
+    font-size: 30px;
+    line-height: 25px;
+    font-weight: 900;
+    color: #111;
+}
+
+div.card-text, .expand-panel {
+    text-align: center;
+}
+
+.card-header {
+    padding: 0.75rem 0.01rem;
+    margin-bottom: 0;
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+.card-body p.card-text {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card.bg-primary.text-white.mb-5.shadow {
+   /* padding: 10px 20px 10px 20px;*/
+    font-size: 18px;
+}
+p.card-text {
+    display: flex;
+    justify-content: space-evenly;
+   
+    align-items: center;
+}
+.card {
+    border: 1px solid darkorchid !important;
+}
+.card-header.py-3.d-flex.flex-row.align-items-center.justify-content-between {
+    padding: 10px;
+}
+#content img {
+    text-align: center;
+}
+.row.no-gutters.align-items-center img {
+    width: 40px;
+}
+.col-lg-8.mb-4.mt-5 img {
+    width: 145px;
+}
+
+
+/* -------- chart graph ------------- */
+.chart-area {
+    height: 160px;
+}
+.card-header {
+    border-radius: calc(.35rem - 1px) calc(.35rem - 1px) 0 0;
+    text-align: center;
+}
+
+/* ------  END Panel Card Dashboard ----------- */
+
+
+
+/* ----------------- Admin/client add new client css in TAB ------------  */
+
+.tab-group {
+  list-style:none;
+  padding:0;
+  margin:0 0 40px 0;
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  li a {
+    display:block;
+    text-decoration:none;
+    padding:15px;
+    background:rgba($gray-light,.25);
+    color:$gray-light;
+    font-size:20px;
+    float:left;
+    width:50%;
+    text-align:center;
+    cursor:pointer;
+    transition:.5s ease;
+    &:hover {
+      background:$main-dark;
+      color:$white;
+    }
+  }
+  .active a {
+    background:$main;
+    color:$white;
+  }
+}
+
+.tab-content > div:last-child {
+  display:none;
+}
+
+
+h1 {
+  text-align:center;
+  color:$white;
+  font-weight:$thin;
+  margin:0 0 40px;
+}
+
+label {
+  position:absolute;
+  transform:translateY(6px);
+  left:13px;
+  color:rgba($white,.5);
+  transition:all 0.25s ease;
+  -webkit-backface-visibility: hidden;
+  pointer-events: none;
+  font-size:22px;
+  .req {
+    margin:2px;
+    color:$main;
+  }
+}
+
+label.active {
+  transform:translateY(50px);
+  left:2px;
+  font-size:14px;
+  .req {
+    opacity:0;
+  }
+}
+
+label.highlight {
+    color:$white;
+}
+
+input, textarea {
+  font-size:22px;
+  display:block;
+  width:100%;
+  height:100%;
+  padding:5px 10px;
+  background:none;
+  background-image:none;
+  border:1px solid $gray-light;
+  color:$white;
+  border-radius:0;
+  transition:border-color .25s ease, box-shadow .25s ease;
+  &:focus {
+        outline:0;
+        border-color:$main;
+  }
+}
+
+textarea {
+  border:2px solid $gray-light;
+  resize: vertical;
+}
+
+.field-wrap {
+  position:relative;
+  margin-bottom:40px;
+}
+
+.top-row {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  > div {
+    float:left;
+    width:48%;
+    margin-right:4%;
+    &:last-child { 
+      margin:0;
+    }
+  }
+}
+
+.button {
+  border:0;
+  outline:none;
+  border-radius:0;
+  padding:15px 0;
+  font-size:2rem;
+  font-weight:$bold;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  background:$main;
+  color:$white;
+  transition:all.5s ease;
+  -webkit-appearance: none;
+  &:hover, &:focus {
+    background:$main-dark;
+  }
+}
+
+.button-block {
+  display:block;
+  width:100%;
+}
+
+.forgot {
+  margin-top:-20px;
+  text-align:right;
+}
+
+/* Tabs*/
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#tabs{
+    background: #007b5e;
+    color: #eee;
+}
+#tabs h6.section-title{
+    color: #eee;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f3f3f3;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+#tabs .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #eee;
+    font-size: 20px;
+}
+
+
+
+/* ----------------  End add new client css in TAB */
+
+button#sidebarToggle.rounded-circle .border-0{ outline: none; } 
+<i class="fas fa-sliders-h"></i>
+.fas .fa-sliders-h{ padding-left: 5px; padding-right: 5px; }
+.btn-icon-split .icon {
+    background: rgba(0,0,0,.15);
+    display: inline-block;
+    padding: 10px 11px;
+    display: grid;
+    width: 6em;
+}
+@media (min-width: 768px){
+.sidebar .nav-item .nav-link {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding:10px 10px; 
+    width: 14rem;
+}
+}
+
+.journey-grph {
+    display: flex;
+    text-align: center;
+}
+.select-client-state{display: none;}

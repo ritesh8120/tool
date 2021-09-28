@@ -1,0 +1,731 @@
+/* Ion.RangeSlider, Flat UI Skin
+// css version 2.0.0
+// © Denis Ineshin, 2014    https://github.com/IonDen
+// ===================================================================================================================*/
+
+/* =====================================================================================================================
+// Skin details */
+
+.irs-line-mid,
+.irs-line-left,
+.irs-line-right,
+.irs-bar,
+.irs-bar-edge,
+.irs-slider {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs {
+    height: 40px;
+}
+.irs-with-grid {
+    height: 60px;
+}
+.irs-line {
+    height: 6px; top: 25px;
+}
+    .irs-line-left {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie9 .irs-shadow {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider, .irs-slider:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min, .irs-max {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from, .irs-to, .irs-single {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from:after, .irs-to:after, .irs-single:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol {
+    background: #e1e4e9;
+}
+.irs-grid-text {
+    color: #999;
+}
+
+.irs-disabled {
+}
+
+
+
+
+
+
+
+.irs-line-mid1,
+.irs-line-left1,
+.irs-line-right1,
+.irs-bar1,
+.irs-bar-edge1,
+.irs-slider1 {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs1 {
+    height: 40px;
+}
+.irs-with-grid1 {
+    height: 60px;
+}
+.irs-line1 {
+    height: 6px; top: 25px;
+}
+    .irs-line-left1 {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid1 {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right1 {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar1 {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge1 {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow1 {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie91 .irs-shadow1 {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider1 {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider1, .irs-slider1:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min1, .irs-max1 {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from1, .irs-to1, .irs-single1 {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from1:after, .irs-to1:after, .irs-single1:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol1 {
+    background: #e1e4e9;
+}
+.irs-grid-text1 {
+    color: #999;
+}
+
+.irs-disabled1 {
+}
+
+
+
+
+
+
+.irs-line-mid2,
+.irs-line-left2,
+.irs-line-right2,
+.irs-bar2,
+.irs-bar-edge2,
+.irs-slider2 {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs2 {
+    height: 40px;
+}
+.irs-with-grid2 {
+    height: 60px;
+}
+.irs-line2 {
+    height: 6px; top: 25px;
+}
+    .irs-line-left2 {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid2 {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right2 {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar2 {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge2 {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow2 {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie92 .irs-shadow2 {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider2 {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider2, .irs-slider2:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min2, .irs-max2 {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from2, .irs-to2, .irs-single2 {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from2:after, .irs-to2:after, .irs-single2:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol2 {
+    background: #e1e4e9;
+}
+.irs-grid-text2 {
+    color: #999;
+}
+
+.irs-disabled2 {
+}
+
+
+
+
+
+
+
+.irs-line-mid3,
+.irs-line-left3,
+.irs-line-right3,
+.irs-bar3,
+.irs-bar-edge3,
+.irs-slider3 {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs3 {
+    height: 40px;
+}
+.irs-with-grid3 {
+    height: 60px;
+}
+.irs-line3 {
+    height: 6px; top: 25px;
+}
+    .irs-line-left3 {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid3 {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right3 {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar3 {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge3 {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow3 {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie92 .irs-shadow3 {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider3 {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider3, .irs-slider3:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min3, .irs-max3 {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from3, .irs-to3, .irs-single3 {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from3:after, .irs-to3:after, .irs-single3:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol3 {
+    background: #e1e4e9;
+}
+.irs-grid-text3 {
+    color: #999;
+}
+
+.irs-disabled3 {
+}
+
+
+
+
+.irs-line-mid1,
+.irs-line-left1,
+.irs-line-right1,
+.irs-bar1,
+.irs-bar-edge1,
+.irs-slider1 {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs1 {
+    height: 40px;
+}
+.irs-with-grid1 {
+    height: 60px;
+}
+.irs-line1 {
+    height: 6px; top: 25px;
+}
+    .irs-line-left1 {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid1 {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right1 {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar1 {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge1 {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow1 {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie91 .irs-shadow1 {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider1 {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider1, .irs-slider1:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min1, .irs-max1 {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from1, .irs-to1, .irs-single1 {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from1:after, .irs-to1:after, .irs-single1:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol1 {
+    background: #e1e4e9;
+}
+.irs-grid-text1 {
+    color: #999;
+}
+
+.irs-disabled1 {
+}
+
+
+
+
+
+
+.irs-line-mid2,
+.irs-line-left2,
+.irs-line-right2,
+.irs-bar2,
+.irs-bar-edge2,
+.irs-slider2 {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs2 {
+    height: 40px;
+}
+.irs-with-grid2 {
+    height: 60px;
+}
+.irs-line2 {
+    height: 6px; top: 25px;
+}
+    .irs-line-left2 {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid2 {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right2 {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar2 {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge2 {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow2 {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie92 .irs-shadow2 {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider2 {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider2, .irs-slider2:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min2, .irs-max2 {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from2, .irs-to2, .irs-single2 {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from2:after, .irs-to2:after, .irs-single2:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol2 {
+    background: #e1e4e9;
+}
+.irs-grid-text2 {
+    color: #999;
+}
+
+.irs-disabled2 {
+}
+
+
+
+
+
+
+
+.irs-line-mid4,
+.irs-line-left4,
+.irs-line-right4,
+.irs-bar4,
+.irs-bar-edge4,
+.irs-slider4 {
+    background: url(../../img/ion/sprite-skin-flat.png) repeat-x;
+}
+
+.irs4 {
+    height: 40px;
+}
+.irs-with-grid4 {
+    height: 60px;
+}
+.irs-line4 {
+    height: 6px; top: 25px;
+}
+    .irs-line-left4 {
+        height: 6px;
+        background-position: 0 -30px;
+    }
+    .irs-line-mid4 {
+        height: 6px;
+        background-position: 0 0;
+    }
+    .irs-line-right4 {
+        height: 6px;
+        background-position: 100% -30px;
+    }
+
+.irs-bar4 {
+    height: 6px; top: 25px;
+    background-position: 0 -60px;
+}
+    .irs-bar-edge4 {
+        top: 22px;
+        height: 12px; width: 9px;
+        background-position: 0 -90px;
+    }
+
+.irs-shadow4 {
+    height: 3px; top: 34px;
+    background: #000;
+    opacity: 0.25;
+}
+.lt-ie94 .irs-shadow4 {
+    filter: alpha(opacity=25);
+}
+
+.irs-slider4 {
+    width: 16px; height: 18px;
+    top: 20px;
+    background-position: 0 -120px;
+}
+#irs-active-slider4, .irs-slider4:hover {
+    background-position: 0 -150px;
+}
+
+.irs-min4, .irs-max4 {
+    color: #999;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    top: 0; padding: 1px 3px;
+    background: #e1e4e9;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.irs-from4, .irs-to4, .irs-single4 {
+    color: #fff;
+    font-size: 10px; line-height: 1.333;
+    text-shadow: none;
+    padding: 1px 5px;
+    background: #33414E;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.irs-from4:after, .irs-to4:after, .irs-single4:after {
+    position: absolute; display: block; content: "";
+    bottom: -6px; left: 50%;
+    width: 0; height: 0;
+    margin-left: -3px;
+    overflow: hidden;
+    border: 3px solid transparent;
+    border-top-color: #33414E;
+}
+
+
+.irs-grid-pol4 {
+    background: #e1e4e9;
+}
+.irs-grid-text4 {
+    color: #999;
+}
+
+.irs-disabled4 {
+}

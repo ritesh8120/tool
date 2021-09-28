@@ -1,0 +1,17 @@
+#msg_scroll {
+    width: 800px;
+    height: 650px !important;
+    overflow: scroll;
+}
+
+.boost {
+    color: #fff;
+    font-size: 28px;
+    margin: 8px 0 0;
+    padding-left: 200px;
+    text-align: center;
+}
+
+.otp_box {
+    display: none;
+}

@@ -1,0 +1,2821 @@
+
+@media all and (max-width: 1920px) and (min-width: 1861px){
+	
+	.cal td a {
+    background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9);
+    box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+    clear: both;
+    color: #666666;
+    display: block;
+    line-height: 46px;
+    position: relative;
+    width: 92px!important;
+}
+
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:410px!important;
+}
+	
+.pie1 {height: 0px; left: 830px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 830px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;
+   z-index:999;}	
+
+.demo { display:block; left: 1140px; position: absolute; top: 330px; transform: rotate(0deg); width: 250px;}
+
+.pie2 {height: 0px; left: 900px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 900px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;
+   z-index:999;}
+
+.demo1 {display:block; left: 1140px; position: absolute; top: 430px; transform: rotate(0deg); width: 250px;}
+
+.pie3 {height: 0px; left: 905px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;}
+.pie3:hover {height: 0px; left: 905px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 1140px; position: absolute; top: 530px; transform: rotate(0deg); width: 250px;}
+
+.pie4{ height: 0px; left: 830px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 830px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 1140px; position: absolute; top: 630px; transform: rotate(0deg); width: 250px;}
+
+.pie5 {height: 0px; left: 740px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 740px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 1140px; position: absolute; top: 730px; transform: rotate(0deg); width: 250px;}
+
+.pie6 {height: 0px; left: 660px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 660px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 90px; position: absolute; top: 730px; transform: rotate(0deg); width: 250px;}
+
+.pie7 {height: 0px; left: 590px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 590px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 90px; position: absolute; top: 630px; transform: rotate(-0deg); width: 250px;}
+
+.pie8 { height: 0px; left: 600px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover {height: 0px; left: 600px; position: absolute; top: 510px; transform: rotate(90deg); width: 0px; z-index:999;}
+
+.demo7 {display:block;left: 90px; position: absolute; top: 530px; transform: rotate(0deg); width: 250px;}
+
+.pie9 {height: 0px; left: 630px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 630px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 90px; position: absolute; top: 430px; transform: rotate(0deg); width: 250px;}
+
+.pie10 { height: 0px; left: 730px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover { height: 0px; left: 730px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 90px; position: absolute; top: 330px; transform: rotate(0deg); width: 250px;}
+	
+	
+.panel-footer.cntr.mrgn {
+    margin-top: 32% !important;
+}
+	
+}
+
+
+@media all and (max-width: 1860px) and (min-width: 1770px){
+	
+	.cal td a {
+    background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9);
+    box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+    clear: both;
+    color: #666666;
+    display: block;
+    line-height: 46px;
+    position: relative;
+    width: 84px!important;
+}
+
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:410px!important;
+}
+	
+.pie1 {height: 0px; left: 830px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 830px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;
+   z-index:999;}	
+
+.demo { display:block; left: 1140px; position: absolute; top: 330px; transform: rotate(0deg); width: 250px;}
+
+.pie2 {height: 0px; left: 900px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 900px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;
+   z-index:999;}
+
+.demo1 {display:block; left: 1140px; position: absolute; top: 430px; transform: rotate(0deg); width: 250px;}
+
+.pie3 {height: 0px; left: 905px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;}
+.pie3:hover {height: 0px; left: 905px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 1140px; position: absolute; top: 530px; transform: rotate(0deg); width: 250px;}
+
+.pie4{ height: 0px; left: 830px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 830px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 1140px; position: absolute; top: 630px; transform: rotate(0deg); width: 250px;}
+
+.pie5 {height: 0px; left: 740px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 740px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 1140px; position: absolute; top: 730px; transform: rotate(0deg); width: 250px;}
+
+.pie6 {height: 0px; left: 660px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 660px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 90px; position: absolute; top: 730px; transform: rotate(0deg); width: 250px;}
+
+.pie7 {height: 0px; left: 590px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 590px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 90px; position: absolute; top: 630px; transform: rotate(-0deg); width: 250px;}
+
+.pie8 { height: 0px; left: 600px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover {height: 0px; left: 600px; position: absolute; top: 510px; transform: rotate(90deg); width: 0px; z-index:999;}
+
+.demo7 {display:block;left: 90px; position: absolute; top: 530px; transform: rotate(0deg); width: 250px;}
+
+.pie9 {height: 0px; left: 630px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 630px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 90px; position: absolute; top: 430px; transform: rotate(0deg); width: 250px;}
+
+.pie10 { height: 0px; left: 730px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover { height: 0px; left: 730px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 90px; position: absolute; top: 330px; transform: rotate(0deg); width: 250px;}
+	
+	
+}
+
+
+@media all and (max-width: 1769px) and (min-width: 1681px){
+	.cal td a {
+    background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9);
+    box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+    clear: both;
+    color: #666666;
+    display: block;
+    line-height: 46px;
+    position: relative;
+    width: 78px!important;
+}
+
+
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:310px!important;
+}
+	
+.pie1 {height: 0px; left: 730px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 730px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;
+   z-index:999;}	
+
+.demo { display:block; left: 1050px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+
+.pie2 {height: 0px; left: 800px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 800px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;
+   z-index:999;}
+
+.demo1 {display:block; left: 1050px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 805px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;}
+.pie3:hover {height: 0px; left: 805px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 1050px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 730px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 730px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 1050px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height: 0px; left: 640px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 640px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 1050px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 560px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 560px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 90px; position: absolute; top:730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 490px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 490px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 90px; position: absolute; top: 630px; transform: rotate(-0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 500px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover {height: 0px; left: 500px; position: absolute; top: 510px; transform: rotate(90deg); width: 0px; z-index:999;}
+
+.demo7 {display:block;left: 90px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 530px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 530px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 90px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 { height: 0px; left: 630px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover { height: 0px; left: 630px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 90px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+	
+	
+}
+
+
+
+@media all and (max-width: 1680px) and (min-width: 1601px){
+	
+	#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+
+	.cal td a {
+    background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9);
+    box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+    clear: both;
+    color: #666666;
+    display: block;
+    line-height: 46px;
+    position: relative;
+    width: 70px!important;
+}
+
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-10px!important;
+}
+	
+.pie1 {height: 0px; left: 710px; position: absolute; top: 430px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 710px; position: absolute; top: 430px; transform: rotate(-160deg); width: 0px;
+   z-index:999;}	
+
+.demo { display:block; left: 1000px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+
+.pie2 {height: 0px; left: 790px; position: absolute; top:515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 790px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;
+   z-index:999;}
+
+.demo1 {display:block; left: 1000px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 785px; position: absolute; top: 605px; transform: rotate(-90deg); width: 0px;}
+.pie3:hover {height: 0px; left: 785px; position: absolute; top: 605px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 1000px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 710px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 710px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 1000px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height: 0px; left: 620px; position: absolute; top: 735px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 620px; position: absolute; top: 735px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 1000px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 530px; position: absolute; top: 705px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 530px; position: absolute; top: 705px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 90px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 470px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 470px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 90px; position: absolute; top: 630px; transform: rotate(-0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 480px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover {height: 0px; left: 480px; position: absolute; top: 510px; transform: rotate(90deg); width: 0px; z-index:999;}
+
+.demo7 {display:block;left: 90px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 520px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 520px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 90px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 { height: 0px; left: 610px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover { height: 0px; left: 610px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 90px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+	
+	
+}
+
+
+
+@media all and (max-width: 1600px) and (min-width: 1561px){
+	#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+.cal td a { background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9); box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+            clear: both; color: #666666; display: block; line-height: 46px; position: relative; width: 70px!important;}
+	
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+	
+	
+	
+	#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-1px!important;
+}
+
+	
+.pie1 {height: 0px; left: 705px; position: absolute; top: 425px; transform: rotate(-160deg); width: 0px; }	
+.pie1:hover {height: 0px; left: 705px; position: absolute; top:425px; transform: rotate(-160deg); width: 0px; z-index:999;}	
+
+.demo { display:block; left: 1000px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+
+.pie2 {height: 0px; left: 780px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 780px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 1000px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 775px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 775px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 1000px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 705px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 705px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 1000px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height: 0px; left: 620px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 620px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 1000px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 530px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 530px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 60px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 465px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 465px; position: absolute; top: 330px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 60px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 470px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover {height: 0px; left: 470px; position: absolute; top: 510px; transform: rotate(90deg); width: 0px; z-index:999;}
+
+.demo7 {display:block;left: 60px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 510px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 510px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 60px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 { height: 0px; left: 610px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover { height: 0px; left: 610px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 60px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+	
+	
+}
+
+
+@media all and (max-width: 1560px) and (min-width: 1460px){
+	
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+
+.cal td a {background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9); box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+    clear: both; color: #666666; display: block; line-height: 46px; position: relative; width: 70px!important;}
+	
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+	
+	#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-20px!important;
+}
+
+.pie1 {height: 0px; left: 665px; position: absolute; top: 425px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 665px; position: absolute; top: 425px; transform: rotate(-160deg); width: 0px; z-index:999;}	
+
+.demo { display:block; left: 930px; position: absolute; top: 330px; transform: rotate(0deg); width: 200px;}
+
+.pie2 {height: 0px; left: 745px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 745px; position: absolute; top:515px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 930px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 740px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 740px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 930px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 660px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 660px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 930px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height: 0px; left: 575px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 575px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px; z-index:999;}
+
+.demo4 {display:block; left: 930px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 490px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 490px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 40px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 420px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 420px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 40px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 430px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 430px; position: absolute; top: 510px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 40px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 465px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 465px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 40px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 565px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 565px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 40px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+}
+
+
+@media all and (max-width: 1459px) and (min-width: 1400px){
+	
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+	
+	#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-20px!important;
+}
+
+	
+.pie1 {height: 0px; left: 650px; position: absolute; top: 425px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 650px; position: absolute; top: 425px; transform: rotate(-160deg); width: 0px; z-index:999;}
+
+.demo { display:block; left: 860px; position: absolute; top: 330px; transform: rotate(0deg); width: 200px;}
+
+.pie2 {height: 0px; left: 725px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 725px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 860px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 720px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 720px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 860px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 650px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;}
+.pie4:hover{ height: 0px; left: 650px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+ z-index:999;}
+
+.demo3 {display:block; left: 860px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height:0px; left: 560px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;}
+.pie5:hover{height: 0px; left: 560px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px; z-index:999;}
+
+.demo4 {display:block; left: 860px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 475px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;}
+.pie6:hover {height: 0px; left: 475px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px; z-index:999;}
+
+.demo5 {display:block; left: 50px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 400px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;}
+.pie7:hover {height: 0px; left: 400px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px; z-index:999;}
+
+.demo6 {display:block; left: 50px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 410px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 410px; position: absolute; top: 510px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 50px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 445px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 445px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 50px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 550px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 550px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 50px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+	
+}
+
+@media all and (max-width: 1300px) and (min-width: 1241px){
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+	
+	#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-50px!important;
+}
+
+
+
+	
+.pie1 {height: 0px; left: 580px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 580px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px; z-index:999;}
+
+.demo { display:block; left: 760px; position: absolute; top: 330px; transform: rotate(0deg); width: 200px;}
+
+.pie2 {height: 0px; left: 655px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 655px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 760px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 650px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 650px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 760px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 580px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;}
+.pie4:hover{ height: 0px; left: 580px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+ z-index:999;}
+
+.demo3 {display:block; left: 760px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height:0px; left: 490px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;}
+.pie5:hover{height: 0px; left: 490px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px; z-index:999;}
+
+.demo4 {display:block; left: 760px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 405px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;}
+.pie6:hover {height: 0px; left: 405px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px; z-index:999;}
+
+.demo5 {display:block; left: 30px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 330px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;}
+.pie7:hover {height: 0px; left: 330px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px; z-index:999;}
+
+.demo6 {display:block; left: 30px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 340px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 340px; position: absolute; top: 510px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 30px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 375px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 375px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 30px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 480px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 480px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 30px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+	
+	
+.form-group > ul {
+    padding-left: 0px!important;
+}
+
+.panel-footer.cntr {
+    margin-top: 52%;
+}
+
+
+}
+
+
+
+@media all and (max-width: 1240px) and (min-width: 1131px){
+	
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+	
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+
+
+		#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-70px!important;
+}
+
+.pie1 {height: 0px; left: 540px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 540px; position: absolute; top: 435px; transform: rotate(-160deg); width: 0px; z-index:999;}
+
+.demo { display:block; left: 700px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+
+.pie2 {height: 0px; left: 615px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 615px; position: absolute; top: 515px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 700px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie3 {height: 0px; left: 620px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 620px; position: absolute; top: 610px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 700px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie4{ height: 0px; left: 540px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 540px; position: absolute; top: 670px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 700px; position: absolute; top: 630px; transform: rotate(0deg); width: 190px;}
+
+.pie5 {height: 0px; left: 450px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 450px; position: absolute; top: 725px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 700px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie6 {height: 0px; left: 370px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 370px; position: absolute; top: 695px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 10px; position: absolute; top: 730px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 300px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 300px; position: absolute; top: 630px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 10px; position: absolute; top:630px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 310px; position: absolute; top: 510px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 310px; position: absolute; top: 510px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 10px; position: absolute; top: 530px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 335px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 335px; position: absolute; top: 435px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 10px; position: absolute; top: 430px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 440px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 440px; position: absolute; top: 405px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 10px; position: absolute; top: 330px; transform: rotate(0deg); width: 190px;}
+
+
+
+.li_inline {
+    display: inline-block;
+    width: 33px;
+}	
+	
+}
+
+
+@media all and (max-width: 1130px) and (min-width: 1078px){
+	
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+
+
+	
+  #chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-40px!important;
+  width: 500px;
+  height: 420px;
+}
+	
+.pie1 {height: 0px; left: 485px; position: absolute; top: 415px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 485px; position: absolute; top: 415px; transform: rotate(-160deg); width: 0px; z-index:999;}	
+
+.demo { display:block; left: 620px; position: absolute; top: 310px; transform: rotate(0deg); width: 160px;}
+
+.pie2 {height: 0px; left: 545px; position: absolute; top: 485px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 545px; position: absolute; top: 485px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 620px; position: absolute; top: 410px; transform: rotate(0deg); width: 160px;}
+
+.pie3 {height: 0px; left: 540px; position: absolute; top: 570px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 540px; position: absolute; top: 570px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 620px; position: absolute; top:510px; transform: rotate(0deg); width: 160px;}
+
+.pie4{ height: 0px; left: 475px; position: absolute; top: 620px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 475px; position: absolute; top: 620px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 620px; position: absolute; top: 610px; transform: rotate(0deg); width: 160px;}
+
+.pie5 {height: 0px; left: 395px; position: absolute; top: 665px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 395px; position: absolute; top: 665px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 620px; position: absolute; top: 710px; transform: rotate(0deg); width: 160px;}
+
+.pie6 {height: 0px; left: 335px; position: absolute; top: 635px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 335px; position: absolute; top: 635px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 5px; position: absolute; top: 710px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 280px; position: absolute; top: 570px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 280px; position: absolute; top: 570px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 5px; position: absolute; top: 610px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 290px; position: absolute; top: 470px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 290px; position: absolute; top: 470px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 5px; position: absolute; top: 510px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 325px; position: absolute; top: 415px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 325px; position: absolute; top: 415px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 5px; position: absolute; top: 410px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 405px; position: absolute; top: 385px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 405px; position: absolute; top: 385px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 5px; position: absolute; top: 310px; transform: rotate(0deg); width: 190px;}
+	
+	
+.pricing-table {
+    margin: 50px auto;
+    padding: 10px 0 10px 10px;
+    text-align: center;
+    width: 100%;
+}
+	
+
+.li_inline {
+    display: inline-block;
+    width: 30px;
+}
+
+}
+
+
+
+
+@media all and (max-width: 1077px) and (min-width: 1025px){
+	
+.popup-scroll{
+  /* Overflow Scroll */
+  overflow-y: scroll;
+  max-height: auto;
+  padding:0 1em 0 0;
+}
+
+/* custom scrollbars - webkit only */
+.popup-scroll::-webkit-scrollbar {background-color:#EEE;width:10px;}
+.popup-scroll::-webkit-scrollbar-thumb {
+	border:1px #EEE solid;border-radius:2px;background:#777;
+	-webkit-box-shadow: 0 0 8px #555 inset;box-shadow: 0 0 8px #555 inset;
+	-webkit-transition: all .3s ease-out;transition: all .3s ease-out;
+	}
+.popup-scroll::-webkit-scrollbar-track {-webkit-box-shadow: 0 0 2px #ccc;box-shadow: 0 0 2px #ccc;}	
+
+.btn.btn-lg, .btn-group-lg > .btn {
+    font-size: 12px;
+    padding: 5px 15px;
+}
+.message-box .mb-container .mb-middle {
+    color: #ffffff;
+    left: 5%;
+    position: relative;
+    width: 90%;
+}
+.message-box .mb-container {
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    left: 0;
+    padding: 20px;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+}
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+iframe{width:100%!important; height:300px;}
+
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+ #chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-40px!important;
+  width: 470px;
+  height: 400px;
+}
+
+
+.pie1 {height: 0px; left: 455px; position: absolute; top: 415px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 455px; position: absolute; top: 415px; transform: rotate(-160deg); width: 0px; z-index:999;}	
+
+.demo { display:block; left: 580px; position: absolute; top: 310px; transform: rotate(0deg); width: 160px;}
+
+.pie2 {height: 0px; left: 515px; position: absolute; top: 485px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 515px; position: absolute; top: 485px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 580px; position: absolute; top: 410px; transform: rotate(0deg); width: 160px;}
+
+.pie3 {height: 0px; left: 510px; position: absolute; top: 570px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 510px; position: absolute; top: 570px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 580px; position: absolute; top:510px; transform: rotate(0deg); width: 160px;}
+
+.pie4{ height: 0px; left: 445px; position: absolute; top: 620px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 445px; position: absolute; top: 620px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 580px; position: absolute; top: 610px; transform: rotate(0deg); width: 160px;}
+
+.pie5 {height: 0px; left: 375px; position: absolute; top: 665px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 375px; position: absolute; top: 665px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 580px; position: absolute; top: 710px; transform: rotate(0deg); width: 160px;}
+
+.pie6 {height: 0px; left: 305px; position: absolute; top: 635px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 305px; position: absolute; top: 635px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 5px; position: absolute; top: 710px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 265px; position: absolute; top: 570px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 265px; position: absolute; top: 570px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 5px; position: absolute; top: 610px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 280px; position: absolute; top: 465px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 280px; position: absolute; top: 465px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 5px; position: absolute; top: 510px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 305px; position: absolute; top: 415px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 305px; position: absolute; top: 415px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 5px; position: absolute; top: 410px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 380px; position: absolute; top: 385px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 380px; position: absolute; top: 385px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 5px; position: absolute; top: 310px; transform: rotate(0deg); width: 190px;}
+
+
+.pricing-table {
+    margin: 50px auto;
+    padding: 10px 0 10px 10px;
+    text-align: center;
+    width: 100%!important;
+}	
+	
+}
+
+
+
+@media all and (max-width: 991px) and (min-width: 769px){
+	
+.popup-scroll{
+  /* Overflow Scroll */
+  overflow-y: scroll;
+  max-height: auto;
+  padding:0 1em 0 0;
+}
+
+/* custom scrollbars - webkit only */
+.popup-scroll::-webkit-scrollbar {background-color:#EEE;width:10px;}
+.popup-scroll::-webkit-scrollbar-thumb {
+	border:1px #EEE solid;border-radius:2px;background:#777;
+	-webkit-box-shadow: 0 0 8px #555 inset;box-shadow: 0 0 8px #555 inset;
+	-webkit-transition: all .3s ease-out;transition: all .3s ease-out;
+	}
+.popup-scroll::-webkit-scrollbar-track {-webkit-box-shadow: 0 0 2px #ccc;box-shadow: 0 0 2px #ccc;}	
+
+.btn.btn-lg, .btn-group-lg > .btn {
+    font-size: 12px;
+    padding: 5px 15px;
+}
+.message-box .mb-container .mb-middle {
+    color: #ffffff;
+    left: 5%;
+    position: relative;
+    width: 90%;
+}
+.message-box .mb-container {
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    left: 0;
+    padding: 20px;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+}
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+	
+.boost {color: #ffffff!important; font-size: 28px!important; margin: 8px 0 0!important; padding-left: 0px!important; text-align: center!important;}	
+
+.pricing-table { margin: 50px auto; padding: 10px 0 10px 0px; text-align: center; width: 100%;}
+
+
+.bloc {border: 1px solid #dddddd; border-radius: 5px; margin:0px 10px 20px 0px; overflow: hidden; width: 31%;}
+
+h3 small, .h3 small {line-height: 19px; padding: 0 !important;}
+
+.cal td a {
+    background-image: linear-gradient(to bottom, #eaeaea, #e5e5e5 60%, #d9d9d9);
+    box-shadow: 1px 1px rgba(255, 255, 255, 0.5) inset;
+    clear: both;
+    color: #666666;
+    display: block;
+    line-height: 46px;
+    width: 50px!important;
+}
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+iframe{width:100%!important; height:280px;}
+
+
+
+ #chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:120px!important;
+  width: 470px;
+  height: 400px;
+}
+	
+.pie1 {height: 0px; left: 455px; position: absolute; top: 415px; transform: rotate(-160deg); width: 0px;  }	
+.pie1:hover {height: 0px; left: 455px; position: absolute; top: 415px; transform: rotate(-160deg); width: 0px; z-index:999;}	
+
+.demo { display:block; left: 580px; position: absolute; top: 310px; transform: rotate(0deg); width: 160px;}
+
+.pie2 {height: 0px; left: 515px; position: absolute; top: 485px; transform: rotate(-126deg); width: 0px;  }
+.pie2:hover {height: 0px; left: 515px; position: absolute; top: 485px; transform: rotate(-126deg); width: 0px; z-index:999;}
+
+.demo1 {display:block; left: 580px; position: absolute; top: 410px; transform: rotate(0deg); width: 160px;}
+
+.pie3 {height: 0px; left: 510px; position: absolute; top: 570px; transform: rotate(-90deg); width: 0px;  }
+.pie3:hover {height: 0px; left: 510px; position: absolute; top: 570px; transform: rotate(-90deg); width: 0px; z-index:999;}
+
+.demo2 {display:block; left: 580px; position: absolute; top:510px; transform: rotate(0deg); width: 160px;}
+
+.pie4{ height: 0px; left: 445px; position: absolute; top: 620px; transform: rotate(-50deg); width: 0px;  }
+.pie4:hover{ height: 0px; left: 445px; position: absolute; top: 620px; transform: rotate(-50deg); width: 0px;
+   z-index:999;}
+
+.demo3 {display:block; left: 580px; position: absolute; top: 610px; transform: rotate(0deg); width: 160px;}
+
+.pie5 {height: 0px; left: 375px; position: absolute; top: 665px; transform: rotate(-20deg); width: 0px;  }
+.pie5:hover{height: 0px; left: 375px; position: absolute; top: 665px; transform: rotate(-20deg); width: 0px;   z-index:999;}
+
+.demo4 {display:block; left: 580px; position: absolute; top: 710px; transform: rotate(0deg); width: 160px;}
+
+.pie6 {height: 0px; left: 305px; position: absolute; top: 635px; transform: rotate(16deg); width: 0px;  }
+.pie6:hover {height: 0px; left: 305px; position: absolute; top: 635px; transform: rotate(16deg); width: 0px;   z-index:999;}
+
+.demo5 {display:block; left: 5px; position: absolute; top: 710px; transform: rotate(0deg); width: 190px;}
+
+.pie7 {height: 0px; left: 265px; position: absolute; top: 570px; transform: rotate(50deg); width: 0px;  }
+.pie7:hover {height: 0px; left: 265px; position: absolute; top: 570px; transform: rotate(50deg); width: 0px;   z-index:999;}
+
+.demo6 {display:block; left: 5px; position: absolute; top: 610px; transform: rotate(0deg); width: 190px;}
+
+.pie8 { height: 0px; left: 280px; position: absolute; top: 465px; transform: rotate(90deg); width: 0;}
+.pie8:hover { height: 0px; left: 280px; position: absolute; top: 465px; transform: rotate(90deg); width: 0; z-index:999;}
+
+.demo7 {display:block;left: 5px; position: absolute; top: 510px; transform: rotate(0deg); width: 190px;}
+
+.pie9 {height: 0px; left: 305px; position: absolute; top: 415px; transform: rotate(120deg); width: 0px;  }
+.pie9:hover {height: 0px; left: 305px; position: absolute; top: 415px; transform: rotate(120deg); width: 0px;   z-index:999;}
+
+.demo8 { display:block; left: 5px; position: absolute; top: 410px; transform: rotate(0deg); width: 190px;}
+
+.pie10 {  height: 0px; left: 380px; position: absolute; top: 385px; transform: rotate(156deg); width: 0px;  }
+.pie10:hover {  height: 0px; left: 380px; position: absolute; top: 385px; transform: rotate(156deg); width: 0px;   z-index:999;}
+
+.demo9 { display:block; left: 5px; position: absolute; top: 310px; transform: rotate(0deg); width: 190px;}
+
+
+.margin_left50{margin-left:0px;}
+.margin_left10{margin-left:0px;}	
+	
+}
+
+
+@media only screen and (max-width: 768px) and (min-width:720px){
+	
+	#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:120px!important;
+  width: 500px;
+  height: 420px;
+}
+
+.pie1 { height: 20px; left: 415px; position: absolute; top: 405px; transform: rotate(20deg); width: 0;}
+
+.pie1:hover {height: 20px; left: 415px; position: absolute; top: 405px; transform: rotate(20deg); width: 0px; z-index:999;}
+
+.demo { display: none; left: 360px; position: absolute; top: 440px; transform: rotate(-70deg); width: 140px;}
+
+.pie2 {height: 20px; left:500px ; position: absolute; top: 435px ; transform: rotate(50deg); width: 0px;}
+
+.pie2:hover {height: 20px; left:500px ; position: absolute; top: 435px ; transform: rotate(50deg); width: 0px; z-index:999;}
+
+.demo1 {display: none; left: 410px; position: absolute; top: 485px; transform: rotate(-35deg); width: 140px;}
+
+
+.pie3 {height: 20px; left: 565px ; position: absolute; top: 530px ; transform: rotate(90deg) ; width: 0 ;}
+
+.pie3:hover {height: 20px; left: 565px ; position: absolute; top: 530px ; transform: rotate(90deg) ; width: 0 ; z-index:999;}
+
+.demo2 { display: none; left: 445px; position: absolute; top: 550px; transform: rotate(0deg); width: 140px;}
+
+
+.pie4 { height: 20px;  left: 550px ;  position: absolute;  top: 635px ; transform: rotate(120deg) ;  width: 0 ;}
+
+.pie4:hover { height: 20px; left: 550px ; position: absolute; top: 635px ; transform: rotate(120deg) ; width: 0 ; z-index:999;}
+
+.demo3 {display: none; left: 430px; position: absolute; top: 615px; transform: rotate(32deg); width: 140px;}
+
+
+.pie5 { height: 20px;  left: 490px;  position: absolute;  top: 710px ; transform: rotate(160deg) ;  width: 0 ;}
+
+.pie5:hover { height: 20px; left: 490px ; position: absolute; top: 710px ; transform: rotate(160deg) ; width: 0 ; z-index:999;}
+
+.demo4 {display: none; left: 370px; position: absolute; top: 665px; transform: rotate(70deg); width: 140px;}
+
+
+.pie6 { height: 20px;  left: 375px;  position: absolute;  top: 730px ; transform: rotate(200deg) ;  width: 0 ;}
+
+.pie6:hover { height: 20px; left: 375px ; position: absolute; top: 730px ; transform: rotate(200deg) ; width: 0 ; z-index:999;}
+
+.demo5 {display: none; left: 290px; position: absolute; top: 660px; transform: rotate(-70deg); width: 140px;}
+
+
+.pie7 { height: 20px;  left: 290px;  position: absolute;  top: 690px ; transform: rotate(230deg) ;  width: 0 ;}
+
+.pie7:hover { height: 20px; left: 290px ; position: absolute; top: 690px ; transform: rotate(230deg) ; width: 0 ; z-index:999;}
+
+.demo6 {display: none; left: 240px; position: absolute; top: 620px; transform: rotate(-36deg); width: 140px;}
+
+
+.pie8 { height: 20px;  left: 225px;  position: absolute;  top: 620px ; transform: rotate(270deg) ;  width: 0 ; font-size:10px;}
+
+.pie8:hover { height: 20px; left: 225px ; position: absolute; top: 620px ; transform: rotate(270deg) ; width: 0 ; z-index:999;}
+
+.demo7 {display: none; left: 210px; position: absolute; top: 550px; transform: rotate(0deg); width: 140px;}
+
+
+.pie9 { font-size: 12px; height: 20px; left: 250px ; position: absolute; top: 505px ; transform: rotate(-60deg) ; width: 0 ; line-height: 12px;}
+
+.pie9:hover { font-size: 12px; height: 20px; left: 250px ; position: absolute; top: 505px ; transform: rotate(-60deg) ; width: 0 ; 
+              line-height: 12px; z-index:999;}
+
+.demo8 { display: none; left: 240px ; position: absolute; top: 485px ; transform: rotate(32deg); width: 140px ;}
+
+
+.pie10{font-size: 12px; height: 20px; left: 315px ; line-height: 12px; position: absolute; top: 435px ; transform: rotate(-23deg) ; width: 0 ;}
+
+.pie10:hover {font-size: 12px; height: 20px; left: 315px ; line-height: 12px; position: absolute; top: 435px ; transform: rotate(-23deg) ; 
+              width: 0 ; z-index:999;}
+
+.demo9 {display: none; left: 290px ; position: absolute; top: 445px ; transform: rotate(65deg) ; width: 140px ; z-index:333;}
+
+.demo-big__note {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note2 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note3 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note4 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note5 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note6 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note7 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note8{
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note9 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note10 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.lifewheel_widthd p {
+    color: #ff0000;
+    float: left;
+    font-size: 22px;
+    font-weight: 600;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+
+}
+
+@media only screen and (max-width: 768px) and (min-width:481px) {
+	
+.lable_top_10{top:-28px!important;}
+
+.boost {color: #ffffff!important; font-size: 20px!important; margin: 8px 0 0!important; padding-left: 0px!important; text-align: center!important;}	
+
+.pricing-table { margin: 50px auto; padding: 10px 0 10px 0px; text-align: center; width: 100%;}
+
+.bloc {border: 1px solid #dddddd; border-radius: 5px; margin:0 10px 20px 0px; overflow: hidden; width: 100%;}
+
+h3 small, .h3 small {line-height: 19px; padding: 0 !important;}
+.popup-scroll{
+  /* Overflow Scroll */
+  overflow-y: scroll;
+  max-height: auto;
+  padding:0 1em 0 0;
+}
+
+/* custom scrollbars - webkit only */
+.popup-scroll::-webkit-scrollbar {background-color:#EEE;width:10px;}
+.popup-scroll::-webkit-scrollbar-thumb {
+	border:1px #EEE solid;border-radius:2px;background:#777;
+	-webkit-box-shadow: 0 0 8px #555 inset;box-shadow: 0 0 8px #555 inset;
+	-webkit-transition: all .3s ease-out;transition: all .3s ease-out;
+	}
+.popup-scroll::-webkit-scrollbar-track {-webkit-box-shadow: 0 0 2px #ccc;box-shadow: 0 0 2px #ccc;}	
+
+.btn.btn-lg, .btn-group-lg > .btn { font-size: 12px; padding: 5px 15px;}
+
+.message-box .mb-container .mb-middle {color: #ffffff; left: 5%; position: relative; width: 90%;}
+
+.message-box .mb-container { background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0; left: 0; padding: 20px;
+    position: absolute; top: 10%; width: 100%;}
+
+.margin-20{ margin-top:20px;}
+
+#msg_scroll { height: auto !important; overflow: scroll; width: 90%!important;}
+
+iframe{width:100%!important; height:300px;}
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+
+
+
+	
+/* canvas {margin-left:-25px!important; width: 320px;} */
+
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:120px!important;
+  width: 500px;
+  height: 420px;
+}
+
+.pie1 { height: 20px; left: 415px; position: absolute; top: 405px; transform: rotate(20deg); width: 0;}
+
+.pie1:hover {height: 20px; left: 415px; position: absolute; top: 405px; transform: rotate(20deg); width: 0px; z-index:999;}
+
+.demo { display: none; left: 360px; position: absolute; top: 440px; transform: rotate(-70deg); width: 140px;}
+
+.pie2 {height: 20px; left:500px ; position: absolute; top: 435px ; transform: rotate(50deg); width: 0px;}
+
+.pie2:hover {height: 20px; left:500px ; position: absolute; top: 435px ; transform: rotate(50deg); width: 0px; z-index:999;}
+
+.demo1 {display: none; left: 410px; position: absolute; top: 485px; transform: rotate(-35deg); width: 140px;}
+
+
+.pie3 {height: 20px; left: 565px ; position: absolute; top: 530px ; transform: rotate(90deg) ; width: 0 ;}
+
+.pie3:hover {height: 20px; left: 565px ; position: absolute; top: 530px ; transform: rotate(90deg) ; width: 0 ; z-index:999;}
+
+.demo2 { display: none; left: 445px; position: absolute; top: 550px; transform: rotate(0deg); width: 140px;}
+
+
+.pie4 { height: 20px;  left: 550px ;  position: absolute;  top: 635px ; transform: rotate(120deg) ;  width: 0 ;}
+
+.pie4:hover { height: 20px; left: 550px ; position: absolute; top: 635px ; transform: rotate(120deg) ; width: 0 ; z-index:999;}
+
+.demo3 {display: none; left: 430px; position: absolute; top: 615px; transform: rotate(32deg); width: 140px;}
+
+
+.pie5 { height: 20px;  left: 490px;  position: absolute;  top: 710px ; transform: rotate(160deg) ;  width: 0 ;}
+
+.pie5:hover { height: 20px; left: 490px ; position: absolute; top: 710px ; transform: rotate(160deg) ; width: 0 ; z-index:999;}
+
+.demo4 {display: none; left: 370px; position: absolute; top: 665px; transform: rotate(70deg); width: 140px;}
+
+
+.pie6 { height: 20px;  left: 375px;  position: absolute;  top: 730px ; transform: rotate(200deg) ;  width: 0 ;}
+
+.pie6:hover { height: 20px; left: 375px ; position: absolute; top: 730px ; transform: rotate(200deg) ; width: 0 ; z-index:999;}
+
+.demo5 {display: none; left: 290px; position: absolute; top: 660px; transform: rotate(-70deg); width: 140px;}
+
+
+.pie7 { height: 20px;  left: 290px;  position: absolute;  top: 690px ; transform: rotate(230deg) ;  width: 0 ;}
+
+.pie7:hover { height: 20px; left: 290px ; position: absolute; top: 690px ; transform: rotate(230deg) ; width: 0 ; z-index:999;}
+
+.demo6 {display: none; left: 240px; position: absolute; top: 620px; transform: rotate(-36deg); width: 140px;}
+
+
+.pie8 { height: 20px;  left: 225px;  position: absolute;  top: 620px ; transform: rotate(270deg) ;  width: 0 ; font-size:10px;}
+
+.pie8:hover { height: 20px; left: 225px ; position: absolute; top: 620px ; transform: rotate(270deg) ; width: 0 ; z-index:999;}
+
+.demo7 {display: none; left: 210px; position: absolute; top: 550px; transform: rotate(0deg); width: 140px;}
+
+
+.pie9 { font-size: 12px; height: 20px; left: 250px ; position: absolute; top: 505px ; transform: rotate(-60deg) ; width: 0 ; line-height: 12px;}
+
+.pie9:hover { font-size: 12px; height: 20px; left: 250px ; position: absolute; top: 505px ; transform: rotate(-60deg) ; width: 0 ; 
+              line-height: 12px; z-index:999;}
+
+.demo8 { display: none; left: 240px ; position: absolute; top: 485px ; transform: rotate(32deg); width: 140px ;}
+
+
+.pie10{font-size: 12px; height: 20px; left: 315px ; line-height: 12px; position: absolute; top: 435px ; transform: rotate(-23deg) ; width: 0 ;}
+
+.pie10:hover {font-size: 12px; height: 20px; left: 315px ; line-height: 12px; position: absolute; top: 435px ; transform: rotate(-23deg) ; 
+              width: 0 ; z-index:999;}
+
+.demo9 {display: none; left: 290px ; position: absolute; top: 445px ; transform: rotate(65deg) ; width: 140px ; z-index:333;}
+
+.demo-big__note {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note2 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note3 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note4 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note5 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note6 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note7 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note8{
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note9 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note10 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.margin_left50{margin-left:0px;}
+.margin_left10{margin-left:0px;}
+
+}
+
+
+@media only screen and (max-width: 620px) and (min-width:481px) {
+	
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-5px!important;
+  width: 500px;
+  height: 420px;
+}
+
+.pie1 { height: 20px; left: 295px; position: absolute; top: 405px; transform: rotate(20deg); width: 0;}
+
+.pie1:hover {height: 20px; left: 295px; position: absolute; top: 405px; transform: rotate(20deg); width: 0px; z-index:999;}
+
+.demo { display: none; left: 250px; position: absolute; top: 440px; transform: rotate(-70deg); width: 140px;}
+
+.pie2 {height: 20px; left:380px ; position: absolute; top: 435px ; transform: rotate(50deg); width: 0px;}
+
+.pie2:hover {height: 20px; left:380px ; position: absolute; top: 435px ; transform: rotate(50deg); width: 0px; z-index:999;}
+
+.demo1 {display: none; left: 300px; position: absolute; top: 485px; transform: rotate(-35deg); width: 140px;}
+
+
+.pie3 {height: 20px; left: 445px ; position: absolute; top: 530px ; transform: rotate(90deg) ; width: 0 ;}
+
+.pie3:hover {height: 20px; left: 445px ; position: absolute; top: 530px ; transform: rotate(90deg) ; width: 0 ; z-index:999;}
+
+.demo2 { display: none; left: 305px; position: absolute; top: 550px; transform: rotate(0deg); width: 140px;}
+
+
+.pie4 { height: 20px;  left: 430px ;  position: absolute;  top: 635px ; transform: rotate(120deg) ;  width: 0 ;}
+
+.pie4:hover { height: 20px; left: 430px ; position: absolute; top: 635px ; transform: rotate(120deg) ; width: 0 ; z-index:999;}
+
+.demo3 {display: none; left: 300px; position: absolute; top: 615px; transform: rotate(32deg); width: 140px;}
+
+
+.pie5 { height: 20px;  left: 370px;  position: absolute;  top: 710px ; transform: rotate(160deg) ;  width: 0 ;}
+
+.pie5:hover { height: 20px; left: 370px ; position: absolute; top: 710px ; transform: rotate(160deg) ; width: 0 ; z-index:999;}
+
+.demo4 {display: none; left: 250px; position: absolute; top: 665px; transform: rotate(70deg); width: 140px;}
+
+
+.pie6 { height: 20px;  left: 255px;  position: absolute;  top: 730px ; transform: rotate(200deg) ;  width: 0 ;}
+
+.pie6:hover { height: 20px; left: 255px ; position: absolute; top: 730px ; transform: rotate(200deg) ; width: 0 ; z-index:999;}
+
+.demo5 {display: none; left: 170px; position: absolute; top: 660px; transform: rotate(-70deg); width: 140px;}
+
+
+.pie7 { height: 20px;  left: 170px;  position: absolute;  top: 690px ; transform: rotate(230deg) ;  width: 0 ;}
+
+.pie7:hover { height: 20px; left: 170px ; position: absolute; top: 690px ; transform: rotate(230deg) ; width: 0 ; z-index:999;}
+
+.demo6 {display: none; left: 120px; position: absolute; top: 620px; transform: rotate(-36deg); width: 140px;}
+
+
+.pie8 { height: 20px;  left: 105px;  position: absolute;  top: 620px ; transform: rotate(270deg) ;  width: 0 ; font-size:10px;}
+
+.pie8:hover { height: 20px; left: 105px ; position: absolute; top: 620px ; transform: rotate(270deg) ; width: 0 ; z-index:999;}
+
+.demo7 {display: none; left: 90px; position: absolute; top: 550px; transform: rotate(0deg); width: 140px;}
+
+
+.pie9 { font-size: 12px; height: 20px; left: 130px ; position: absolute; top: 505px ; transform: rotate(-60deg) ; width: 0 ; line-height: 12px;}
+
+.pie9:hover { font-size: 12px; height: 20px; left: 130px ; position: absolute; top: 505px ; transform: rotate(-60deg) ; width: 0 ; 
+              line-height: 12px; z-index:999;}
+
+.demo8 { display: none; left: 115px ; position: absolute; top: 485px ; transform: rotate(32deg); width: 140px ;}
+
+
+.pie10{font-size: 12px; height: 20px; left: 195px ; line-height: 12px; position: absolute; top: 435px ; transform: rotate(-23deg) ; width: 0 ;}
+
+.pie10:hover {font-size: 12px; height: 20px; left: 195px ; line-height: 12px; position: absolute; top: 435px ; transform: rotate(-23deg) ; 
+              width: 0 ; z-index:999;}
+
+.demo9 {display: none; left: 170px ; position: absolute; top: 445px ; transform: rotate(65deg) ; width: 140px ; z-index:333;}
+
+.demo-big__note {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note2 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note3 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note4 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note5 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note6 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note7 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note8{
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note9 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note10 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+
+}
+
+.continue_button {
+    float: right;
+    margin: 0 40px 0 20px !important;
+}
+
+.month_cost_text {
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 0;
+    text-align: center !important;
+}
+
+td {
+    
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+}
+
+.th_color_font {
+    background: #ffc000 none repeat scroll 0 0;
+    color: #000000;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.one_time_setup {
+    background: #dbe5f1 none repeat scroll 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.per_use_free {
+    background: #fac090 none repeat scroll 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+	
+#preview1 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview1 img {height: auto; width: 100%;}
+#preview2 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview2 img {height: auto; width: 100%;}
+
+#preview3 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview3 img { height: auto; width: 100%;}
+
+#preview4 { height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview4 img { height: auto; width: 100%;}
+
+#preview5 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview5 img {height: auto; width: 100%;}
+
+#preview6 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview6 img {height: auto; width: 100%;}
+
+#preview7 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview7 img {height: auto; width: 100%;}
+
+#preview8 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview8 img { height: auto; width: 100%;}
+
+#preview9 {height: auto; padding-bottom: 10px; width: 100% !important;}
+
+#preview9 img {height: auto; width: 100%;}
+	
+.message-box .mb-container .mb-middle {
+    color: #ffffff;
+    left: 2%;
+    position: relative;
+    text-align: center;
+    width: 94%;
+}
+
+.message-box .mb-container {
+    background: rgba(0, 0, 0, 0.9) none repeat scroll 0 0;
+    left: 0;
+    padding: 20px;
+    position: absolute;
+    top: 10%;
+    width: 100%;
+}
+
+.message-box .mb-container .mb-middle .mb-title {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 36px;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.popup-scroll{
+  /* Overflow Scroll */
+  overflow-y: scroll;
+  max-height: auto;
+  padding:0 1em 0 0;
+}
+
+/* custom scrollbars - webkit only */
+.popup-scroll::-webkit-scrollbar {background-color:#EEE;width:10px;}
+.popup-scroll::-webkit-scrollbar-thumb {
+	border:1px #EEE solid;border-radius:2px;background:#777;
+	-webkit-box-shadow: 0 0 8px #555 inset;box-shadow: 0 0 8px #555 inset;
+	-webkit-transition: all .3s ease-out;transition: all .3s ease-out;
+	}
+.popup-scroll::-webkit-scrollbar-track {-webkit-box-shadow: 0 0 2px #ccc;box-shadow: 0 0 2px #ccc;}	
+
+.btn.btn-lg, .btn-group-lg > .btn {
+    font-size: 12px;
+    padding: 5px 15px;
+}
+
+
+#msg_scroll {
+    height: auto !important;
+    overflow: scroll;
+    width: 90%!important;
+}
+
+iframe{width:100%!important; height:200px;}
+	
+.form-material label { color: #333333; font-size: 11px; font-weight: 400; position: absolute; top: -18px; transition: all 0.2s ease 0s;}	
+
+.lable_top_10{top:-28px!important;}
+
+.margin-top-40{
+	margin-top:40px;}
+	
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    background: #f0f4f9 none repeat scroll 0 0;
+    border-color: rgba(0, 0, 0, 0);
+    color: #656c78;
+    font-size: 12px;
+    padding: 10px;
+}
+
+h2, .h2 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.line_height14{line-height:14px;}
+	
+.page-content-header .logo { background: rgba(0, 0, 0, 0) url("../img/maanasyoga-shala.png") no-repeat scroll left top / 100% auto;
+    display: block; float: left; height: 80px; width: 100%;}
+
+.full_width{width:100%; height:auto; float:left;}
+
+.boost {color: #ffffff!important; font-size: 14px!important; margin: 8px 0 0!important; padding-left: 0px!important; text-align: center!important;}
+	
+.bloc {border: 1px solid #dddddd; border-radius: 5px; margin: 0 15px 20px 0px; overflow: hidden; width: 100%!important;}
+
+.pricing-table {margin: 50px auto; padding: 10px 0 10px 10px; text-align: center; width: 100%;}	
+
+h3 small, .h3 small {line-height: 19px; padding: 0 !important;}
+
+.margin-20{ margin-top:20px;}
+
+
+	
+canvas {margin-left:-25px!important; width: 320px;}
+
+.pie1 {height: 20px; left: 148px; position: absolute; top: 314px; transform: rotate(20deg); width: 0px;}
+
+.pie1:hover {height: 20px; left: 148px; position: absolute; top: 314px; transform: rotate(20deg); width: 0px; z-index:999;}
+
+.demo { display: none; left: 112px; position: absolute; top: 353px; transform: rotate(-70deg); width: 113px;}
+
+.pie2 {height: 20px; left:160px ; position: absolute; top: 395px ; transform: rotate(-40deg); width: 0px;}
+
+.pie2:hover {height: 20px; left:160px ; position: absolute; top: 395px ; transform: rotate(-40deg); width: 0px; z-index:999;}
+
+.demo1 {display: none; left: 158px; position: absolute; top: 377px; transform: rotate(-35deg); width: 113px;}
+
+
+.pie3 {height: 20px; left: 196px ; position: absolute; top: 412px ; transform: rotate(4deg) ; width: 0 ;}
+
+.pie3:hover {height: 20px; left: 196px ; position: absolute; top: 412px ; transform: rotate(4deg) ; width: 0 ; z-index:999;}
+
+.demo2 { display: none; left: 177px; position: absolute; top: 423px; transform: rotate(-4deg); width: 113px;}
+
+
+.pie4 { height: 20px;  left: 176px ;  position: absolute;  top: 513px ; transform: rotate(-62deg) ;  width: 0 ;}
+
+.pie4:hover { height: 20px; left: 176px ; position: absolute; top: 513px ; transform: rotate(-62deg) ; width: 0 ; z-index:999;}
+
+.demo3 {display: none; left: 170px; position: absolute; top: 476px; transform: rotate(32deg); width: 113px;}
+
+
+.pie5 { height: 20px;  left: 146px;  position: absolute;  top: 570px ; transform: rotate(-92deg) ;  width: 0 ;}
+
+.pie5:hover { height: 20px; left: 146px ; position: absolute; top: 570px ; transform: rotate(-92deg) ; width: 0 ; z-index:999;}
+
+.demo4 {display: none; left: 128px; position: absolute; top: 510px; transform: rotate(70deg); width: 113px;}
+
+
+.pie6 { height: 20px;  left: 90px;  position: absolute;  top: 555px ; transform: rotate(-88deg) ;  width: 0 ;}
+
+.pie6:hover { height: 20px; left: 90px ; position: absolute; top: 555px ; transform: rotate(-88deg) ; width: 0 ; z-index:999;}
+
+.demo5 {display: none; left: 62px; position: absolute; top: 510px; transform: rotate(-70deg); width: 113px;}
+
+
+.pie7 { height: 20px;  left: 30px;  position: absolute;  top: 503px ; transform: rotate(-48deg) ;  width: 0 ;}
+
+.pie7:hover { height: 20px; left: 30px ; position: absolute; top: 503px ; transform: rotate(-48deg) ; width: 0 ; z-index:999;}
+
+.demo6 {display: none; left: 22px; position: absolute; top: 475px; transform: rotate(-36deg); width: 113px;}
+
+
+.pie8 { height: 20px;  left: 12px;  position: absolute;  top: 416px ; transform: rotate(-1deg) ;  width: 0 ; font-size:10px;}
+
+.pie8:hover { height: 20px; left: 12px ; position: absolute; top: 416px ; transform: rotate(-1deg) ; width: 0 ; z-index:999;}
+
+.demo7 {display: none; left: 12px; position: absolute; top: 425px; transform: rotate(0deg); width: 113px;}
+
+
+.pie9 { font-size: 9px; height: 20px; left: 22px ; position: absolute; top: 416px ; transform: rotate(-61deg) ; width: 0 ; line-height: 12px;}
+
+.pie9:hover { font-size: 9px; height: 20px; left: 22px ; position: absolute; top: 416px ; transform: rotate(-61deg) ; width: 0 ; 
+              line-height: 12px; z-index:999;}
+
+.demo8 { display: none; left: 28px ; position: absolute; top: 380px ; transform: rotate(32deg); width: 113px ;}
+
+
+.pie10{font-size: 12px; height: 20px; left: 70px ; line-height: 12px; position: absolute; top: 340px ; transform: rotate(-23deg) ; width: 0 ;}
+
+.pie10:hover {font-size: 12px; height: 20px; left: 70px ; line-height: 12px; position: absolute; top: 340px ; transform: rotate(-23deg) ; 
+              width: 0 ; z-index:999;}
+
+.demo9 {display: none; left: 78px ; position: absolute; top: 355px ; transform: rotate(74deg) ; width: 113px ; z-index:333;}
+
+
+
+.month_cost_text {
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 0;
+    text-align: center !important;
+}
+
+td {
+    
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+}
+
+.th_color_font {
+    background: #ffc000 none repeat scroll 0 0;
+    color: #000000;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.one_time_setup {
+    background: #dbe5f1 none repeat scroll 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.per_use_free {
+    background: #fac090 none repeat scroll 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pricing-table {
+    margin: 0px auto!important;
+    text-align: center;
+    width: 100%!important;
+}
+.margin_left50{margin-left:0px!important;}
+.margin_left10{margin-left:0px;}
+}
+
+@media only screen and (max-width: 480px) and (min-width:359px) {
+
+.lifewheel_widthd h1 {
+    color: #137a5c;
+    float: left;
+    font-size: 26px;
+    font-weight: bold;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.lifewheel_widthd p {
+    color: #ff0000;
+    float: left;
+    font-size: 12px;
+    font-weight: 600;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.lifewheel_widthd h3 {
+    color: #ff0000;
+    float: left;
+    font-size: 14px;
+    font-weight: 600;
+    height: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+td {
+    
+    font-size: 12px!important;
+    padding: 5px;
+    text-align: center!important;
+}
+	
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-5px!important;
+  width: 350px;
+  height: 290px;
+}
+
+.pie1 { height: 20px; left: 200px; position: absolute; top: 320px; transform: rotate(20deg); width: 0;}
+
+.pie1:hover {height: 20px; left: 200px; position: absolute; top: 320px; transform: rotate(20deg); width: 0px; z-index:0;}
+
+.demo { display: none; left: 160px!important; position: absolute; top: 365px!important; transform: rotate(-70deg); width: 110px;}
+
+.pie2 {height: 20px; left:265px ; position: absolute; top: 345px ; transform: rotate(50deg); width: 0px;}
+
+.pie2:hover {height: 20px; left:265px ; position: absolute; top: 345px ; transform: rotate(50deg); width: 0px; z-index:0!important;}
+
+.demo1 {display: none; left: 200px; position: absolute; top: 390px; transform: rotate(-35deg); width: 110px;}
+
+
+.pie3 {height: 20px; left: 315px ; position: absolute; top: 415px ; transform: rotate(90deg) ; width: 0 ;}
+
+.pie3:hover {height: 20px; left: 315px ; position: absolute; top: 415px ; transform: rotate(90deg) ; width: 0 ; z-index:0!important;}
+
+.demo2 { display: none; left: 225px; position: absolute; top: 435px; transform: rotate(0deg); width: 110px;}
+
+
+.pie4 { height: 20px;  left: 315px ;  position: absolute;  top: 493px ; transform: rotate(120deg) ;  width: 0 ;}
+
+.pie4:hover { height: 20px; left: 315px ; position: absolute; top: 493px ; transform: rotate(120deg) ; width: 0 ; z-index:0!important;}
+
+.demo3 {display: none; left: 200px; position: absolute; top: 470px; transform: rotate(32deg); width: 110px;}
+
+
+.pie5 { height: 20px;  left: 275px;  position: absolute;  top: 550px ; transform: rotate(160deg) ;  width: 0 ;}
+
+.pie5:hover { height: 20px; left: 275px ; position: absolute; top: 550px ; transform: rotate(160deg) ; width: 0 ; z-index:0!important;}
+
+.demo4 {display: none; left: 175px; position: absolute; top: 515px; transform: rotate(70deg); width: 110px;}
+
+
+.pie6 { height: 20px;  left: 195px;  position: absolute;  top: 570px ; transform: rotate(200deg) ;  width: 0 ;}
+
+.pie6:hover { height: 20px; left: 195px ; position: absolute; top: 570px ; transform: rotate(200deg) ; width: 0 ; z-index:0!important;}
+
+.demo5 {display: none; left: 115px; position: absolute; top: 510px; transform: rotate(-70deg); width: 110px;}
+
+
+.pie7 { height: 20px;  left: 130px;  position: absolute;  top: 540px ; transform: rotate(230deg) ;  width: 0 ;}
+
+.pie7:hover { height: 20px; left: 130px ; position: absolute; top: 540px ; transform: rotate(230deg) ; width: 0 ; z-index:0!important;}
+
+.demo6 {display: none; left: 80px; position: absolute; top: 480px; transform: rotate(-36deg); width: 110px;}
+
+
+.pie8 { height: 20px;  left: 70px;  position: absolute;  top: 505px ; transform: rotate(270deg) ;  width: 0 ; font-size:10px;}
+
+.pie8:hover { height: 20px; left: 70px ; position: absolute; top: 505px ; transform: rotate(270deg) ; width: 0 ; z-index:0!important;}
+
+.demo7 {display: none; left: 65px; position: absolute; top: 435px; transform: rotate(0deg); width: 110px;}
+
+
+.pie9 { font-size: 12px; height: 20px; left: 85px ; position: absolute; top: 415px ; transform: rotate(-60deg) ; width: 0 ; line-height: 12px;}
+
+.pie9:hover { font-size: 12px; height: 20px; left: 85px ; position: absolute; top: 415px ; transform: rotate(-60deg) ; width: 0 ; z-index:0!important; line-height: 12px;}
+
+.demo8 { display: none; left: 80px ; position: absolute; top: 390px ; transform: rotate(32deg); width: 110px ;}
+
+
+.pie10{font-size: 12px; height: 20px; left: 130px ; line-height: 12px; position: absolute; top: 360px ; transform: rotate(-23deg) ; width: 0 ;}
+
+.pie10:hover {font-size: 12px; height: 20px; left: 130px ; line-height: 12px; position: absolute; top: 360px ; transform: rotate(-23deg); width: 0 ; z-index:0!important;}
+
+.demo9 {display: none; left: 125px ; position: absolute; top: 360px ; transform: rotate(65deg) ; width: 110px ; z-index:333;}
+
+.demo-big__note {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note2 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note3 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note4 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note5 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note6 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note7 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note8{
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note9 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note10 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+
+}
+
+@media only screen and (max-width: 360px) and (min-width:320px) {
+
+.lifewheel_widthd h1 {
+    color: #137a5c;
+    float: left;
+    font-size: 26px;
+    font-weight: bold;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.lifewheel_widthd p {
+    color: #ff0000;
+    float: left;
+    font-size: 12px;
+    font-weight: 600;
+    height: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.lifewheel_widthd h3 {
+    color: #ff0000;
+    float: left;
+    font-size: 14px;
+    font-weight: 600;
+    height: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    width: 100%;
+}
+
+td {
+    
+    font-size: 12px!important;
+    padding: 5px;
+    text-align: center!important;
+}
+	
+#chart {
+  display: block;
+  margin: 0 0 50px 0;
+  float: left;
+  cursor: pointer;
+  margin-left:-45px!important;
+  width: 350px;
+  height: 290px;
+}
+
+.pie1 { height: 20px; left: 160px; position: absolute; top: 330px; transform: rotate(20deg); width: 0;}
+
+.pie1:hover {height: 20px; left: 160px; position: absolute; top: 330px; transform: rotate(20deg); width: 0px; z-index:0;}
+
+.demo { display: none; left: 120px!important; position: absolute; top: 370px!important; transform: rotate(-70deg); width: 110px;}
+
+.pie2 {height: 20px; left:225px ; position: absolute; top: 350px ; transform: rotate(50deg); width: 0px;}
+
+.pie2:hover {height: 20px; left:225px ; position: absolute; top: 350px ; transform: rotate(50deg); width: 0px; z-index:0!important;}
+
+.demo1 {display: none; left: 165px; position: absolute; top: 390px; transform: rotate(-35deg); width: 110px;}
+
+
+.pie3 {height: 20px; left: 275px ; position: absolute; top: 420px ; transform: rotate(90deg) ; width: 0 ;}
+
+.pie3:hover {height: 20px; left: 275px ; position: absolute; top: 420px ; transform: rotate(90deg) ; width: 0 ; z-index:0!important;}
+
+.demo2 { display: none; left: 185px; position: absolute; top: 430px; transform: rotate(0deg); width: 110px;}
+
+
+.pie4 { height: 20px;  left: 275px ;  position: absolute;  top: 500px ; transform: rotate(120deg) ;  width: 0 ;}
+
+.pie4:hover { height: 20px; left: 275px ; position: absolute; top: 500px ; transform: rotate(120deg) ; width: 0 ; z-index:0!important;}
+
+.demo3 {display: none; left: 175px; position: absolute; top: 480px; transform: rotate(32deg); width: 110px;}
+
+
+.pie5 { height: 20px;  left: 235px;  position: absolute;  top: 550px ; transform: rotate(160deg) ;  width: 0 ;}
+
+.pie5:hover { height: 20px; left: 235px ; position: absolute; top: 550px ; transform: rotate(160deg) ; width: 0 ; z-index:0!important;}
+
+.demo4 {display: none; left: 135px; position: absolute; top: 510px; transform: rotate(70deg); width: 110px;}
+
+
+.pie6 { height: 20px;  left: 150px;  position: absolute;  top: 570px ; transform: rotate(200deg) ;  width: 0 ;}
+
+.pie6:hover { height: 20px; left: 150px ; position: absolute; top: 570px ; transform: rotate(200deg) ; width: 0 ; z-index:0!important;}
+
+.demo5 {display: none; left: 75px; position: absolute; top: 510px; transform: rotate(-70deg); width: 110px;}
+
+
+.pie7 { height: 20px;  left: 90px;  position: absolute;  top: 540px ; transform: rotate(230deg) ;  width: 0 ;}
+
+.pie7:hover { height: 20px; left: 90px ; position: absolute; top: 540px ; transform: rotate(230deg) ; width: 0 ; z-index:0!important;}
+
+.demo6 {display: none; left: 35px; position: absolute; top: 480px; transform: rotate(-36deg); width: 110px;}
+
+
+.pie8 { height: 20px;  left: 30px;  position: absolute;  top: 500px ; transform: rotate(270deg) ;  width: 0 ; font-size:10px;}
+
+.pie8:hover { height: 20px; left: 30px ; position: absolute; top: 500px ; transform: rotate(270deg) ; width: 0 ; z-index:0!important;}
+
+.demo7 {display: none; left: 25px; position: absolute; top: 435px; transform: rotate(0deg); width: 110px;}
+
+
+.pie9 { font-size: 12px; height: 20px; left: 45px ; position: absolute; top: 415px ; transform: rotate(-60deg) ; width: 0 ; line-height: 12px;}
+
+.pie9:hover { font-size: 12px; height: 20px; left: 45px ; position: absolute; top: 415px ; transform: rotate(-60deg) ; width: 0 ; z-index:0!important; line-height: 12px;}
+
+.demo8 { display: none; left: 45px ; position: absolute; top: 390px ; transform: rotate(32deg); width: 110px ;}
+
+
+.pie10{font-size: 12px; height: 20px; left: 90px ; line-height: 12px; position: absolute; top: 355px ; transform: rotate(-23deg) ; width: 0 ;}
+
+.pie10:hover {font-size: 12px; height: 20px; left: 90px ; line-height: 12px; position: absolute; top: 355px ; transform: rotate(-23deg); width: 0 ; z-index:0!important;}
+
+.demo9 {display: none; left: 85px ; position: absolute; top: 370px; transform: rotate(65deg) ; width: 110px ; z-index:333;}
+
+.demo-big__note {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note2 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note3 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note4 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note5 {
+    color: #0da068;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0 0 5px;
+    position: relative;
+	display:none;
+}
+
+.demo-big__note6 { color: #0da068; font-size: 16px; font-weight: bold; padding: 0 0 5px; position: relative; display:none;}
+
+.demo-big__note7 { color: #0da068; font-size: 16px; font-weight: bold; padding: 0 0 5px; position: relative; display:none;}
+
+.demo-big__note8{color: #0da068; font-size: 16px; font-weight: bold; padding: 0 0 5px; position: relative; display:none;}
+
+.demo-big__note9 {color: #0da068; font-size: 16px; font-weight: bold; padding: 0 0 5px; position: relative; display:none;}
+
+.demo-big__note10 { color: #0da068; font-size: 16px; font-weight: bold; padding: 0 0 5px; position: relative; display:none;}
+
+
+}
+
+
+@media only screen and (max-width:339px) and (min-width:320px){
+	
+.lifewheel_widthd h1 {color: #137a5c; float: left; font-size: 16px!important; font-weight: bold; height: auto; text-align: center; width: 100%;}
+
+}
+
+
+@media only screen and (max-width:480px) and (min-width:458px){
+	
+.lifewheel_widthd h1 {color: #137a5c; float: left; font-size: 32px!important; font-weight: bold; height: auto; text-align: center; width: 100%;}
+
+.lifewheel_widthd p { color: #ff0000; float: left; font-size: 13px; font-weight: 600; height: auto; text-align: center; width: 100%;}
+
+.lifewheel_widthd h3 {color: #ff0000; float: left; font-size: 18px; font-weight: 600; height: auto; padding-bottom: 40px; text-align: center; width: 100%;}
+
+}
+

@@ -1,0 +1,173 @@
+
+
+/* - START sidebar navigation transist - */
+.sidebar-dark .nav-item .nav-link i {
+    color: #fff;
+}
+ul#accordionSidebar{ 
+	-webkit-transition: all 200ms linear;
+-moz-transition: all 200ms linear;
+-ms-transition: all 200ms linear;
+-o-transition: all 200ms linear;
+transition: all 200ms linear;
+ }
+
+.bg-gradient-primary {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ebf1f6+0,253966+0,253966+0,a1ade0+84,d5ebfb+100 */
+background: #ebf1f6; /* Old browsers */
+background: -moz-linear-gradient(top,  #ebf1f6 0%, #253966 0%, #253966 0%, #a1ade0 84%, #d5ebfb 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #ebf1f6 0%,#253966 0%,#253966 0%,#a1ade0 84%,#d5ebfb 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #ebf1f6 0%,#253966 0%,#253966 0%,#a1ade0 84%,#d5ebfb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebf1f6', endColorstr='#d5ebfb',GradientType=0 ); /* IE6-9 */
+
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    background: #435c85;
+}
+/* - END sidebar navigation transist - */
+
+/* ------  START Panel Card Dashboard ----------- */
+
+div #content div.card-text span {
+    font-size: 30px;
+    line-height: 25px;
+    font-weight: 900;
+    color: #111;
+}
+
+div.card-text, .expand-panel {
+    text-align: center;
+}
+
+.card-body p.card-text {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card.bg-primary.text-white.mb-5.shadow {
+   /* padding: 10px 20px 10px 20px;*/
+    font-size: 18px;
+}
+p.card-text {
+    display: flex;
+    justify-content: space-evenly;
+   
+    align-items: center;
+}
+#content img {
+    text-align: center;
+}
+
+
+/* -------- chart graph ------------- */
+.chart-area {
+    height: 160px;
+}
+
+/* ------  END Panel Card Dashboard ----------- */
+
+
+
+
+/* -----------  Add new client tab ----------------- */
+
+.page-content {
+    display: inline-block;
+    width: 100%;
+}
+.tab-parallax {
+    background-image: url("http://massive.markup.themebucket.net/img/pattern-2.png");
+     /*background-size: cover; */
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
+.icon-box-tabs .nav-pills {
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+.icon-box-tabs .nav-pills>li>a {
+    border-radius: 0;
+    background: rgba(34, 34, 34, .05);
+    color: #434343;
+    position: relative;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.icon-box-tabs .nav-pills>li>a:hover:after, .icon-box-tabs .nav-pills>li.active>a:after, .icon-box-tabs .nav-pills>li.active>a:focus:after, .icon-box-tabs .nav-pills>li.active>a:hover:after {
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    opacity: 1;
+}
+.icon-box-tabs .nav-pills>li>a:after {
+    opacity: 0;
+    bottom: -10px;
+    content: "";
+    left: 50%;
+    margin-left: -10px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 10px 0 10px;
+    border-color: #fff transparent transparent transparent;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.icon-box-tabs .nav-pills>li>a i {
+    font-size: 36px;
+}
+.icon-box-tabs .nav-pills>li+li {
+    margin-left: 20px;
+}
+
+.icon-box-tabs .nav>li>a {
+    position: relative;
+    display: block;
+    padding: 35px 70px;
+}
+.icon-box-tabs .nav-pills>li>a:hover, .icon-box-tabs .nav-pills>li.active>a, .icon-box-tabs .nav-pills>li.active>a:focus, .icon-box-tabs .nav-pills>li.active>a:hover{
+    color: #222;
+    background: rgba(255, 255, 255, 1);
+}
+/*  tab media query*/ @media screen and (max-width:991px) and (min-width: 768px) {
+    .icon-box-tabs .nav>li>a {
+    padding: 35px 40px;
+}
+}
+
+/*  tab media query*/   @media screen and (max-width: 767px) {   
+        .icon-box-tabs .nav>li>a {
+    padding: 35px 30px;
+}
+}
+.tab-pane {
+    border: 1px solid #eee;
+    padding: 15px;
+    color: #777;
+}
+
+
+button#sidebarToggle.rounded-circle .border-0{ outline: none; } 
+<i class="fas fa-sliders-h"></i>
+.fas .fa-sliders-h{ padding-left: 5px; padding-right: 5px; }
+.btn-icon-split .icon {
+    background: rgba(0,0,0,.15);
+    display: inline-block;
+    padding: 10px 11px;
+    display: grid;
+    width: 6em;
+}
+@media (min-width: 768px){
+.sidebar .nav-item .nav-link {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding:10px 10px; 
+    width: 14rem;
+}
+}

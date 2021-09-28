@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+    .wrapper{
+      height: auto;
+      background-image: url("../img/person-writing-on-notebook-669615 (2).jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+
+    .bg-login{
+      background: #000;
+      height: 100vh;
+      opacity: 0.75;
+      text-align: center;
+      
+    }
+    .bg-login a{
+      color: #fff;
+    }
+    .bg-login a:hover{
+      text-decoration: none;
+      color: #fff;
+    }
+    .login-logo{
+      margin: 50px;
+    }
+    .name-logo{
+      position: relative;
+      top: 20%;
+      float: right;
+      text-transform: uppercase;
+    }
+    .name-logo h3{
+      font-size: 25px;
+      font-weight: bold;
+      color: #1f6521;
+      text-align: right;
+      font-family: 'Archivo Black', sans-serif;
+    }
+
+    .name-logo h1{
+      color: #000;
+      font-family: 'Libre Baskerville', serif;
+      font-size: 50px;
+    }
+    
+    #get_login{
+    background : #D6CE15;
+    font-weight: bold;
+    text-transform: uppercase;
+    }
+    .loginwala{
+      text-align: left;
+    }
+
+
+   
+@media only screen and (max-width: 600px) {
+
+ .col-md-8.bg-image {
+    display: none;
+}
+
+
+}
